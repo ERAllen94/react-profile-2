@@ -36,7 +36,7 @@ class Landing extends Component {
             </Grid>
         </div>
         )
-    }
+    } 
 }
 
 export default Landing;

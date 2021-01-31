@@ -1,7 +1,7 @@
 import React from 'react';
 import budgetmaster from '../images/budget-master.png';
 import youeat from '../images/U_wanna_eat.PNG'
-import schedule from '../images/schedule.png'
+import trackt from '../images/Trackt.png'
 import notetaker from '../images/note-taker.PNG'
 import { Grid, Cell} from 'react-mdl';
 
@@ -36,10 +36,10 @@ import { Grid, Cell} from 'react-mdl';
             </Cell>
            
            <Cell col={6}>
-               <a href='https://github.com/ERAllen94/Daily-Planner-w5'><div></div>
-           <img src={schedule} style ={{width: '70%'}} alt='planning'></img>
+               <a href='https://fierce-basin-22098.herokuapp.com/'><div></div>
+           <img src={trackt} style ={{width: '70%'}} alt='planning'></img>
            </a> 
-           <a href='https://erallen94.github.io/Daily-Planner/'>
+           <a href='https://github.com/heather-everton/trackt'>
         <i className='fa fa-github-square' aria-hidden='true'/>
            </a>
            </Cell>
